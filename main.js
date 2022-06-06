@@ -2,7 +2,7 @@
 
 var input = prompt("What type of GIF's you wanna watch?");
 //console.log(input);
-var url = "https://api.giphy.com/v1/gifs/search?q="+ input +"&api_key=dc6zaTOxFJmzC";
+var url = "https://api.giphy.com/v1/gifs/search?q="+ input +"&api_key=dD28nf3EwpkZOq33QXvGMmrGMPBnF37N";
 //console.log(url)
 
 var GiphyAJAXCall = new XMLHttpRequest();
